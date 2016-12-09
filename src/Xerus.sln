@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xerus", "Xerus\Xerus.csproj", "{FB6CB315-F61E-4759-BBD8-4E9E3158E06D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xerus.Model", "Xerus.Model\Xerus.Model.csproj", "{CF272764-4673-452B-860B-AC1454BAAA3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xerus.Interfaces", "Xerus.Generator.Interfaces\Xerus.Interfaces.csproj", "{3E48F2D4-4E99-47C4-BFFF-D54527A89E6C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xerus.Generator.TE", "Xerus.Generator.TE\Xerus.Generator.TE.csproj", "{7E96990E-7033-4341-A53B-8FD0C15C8835}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xerus.TemplateEngine", "Xerus.TemplateEngine\Xerus.TemplateEngine.csproj", "{904D8CDF-5D51-4004-9600-E6F8B016B479}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xerus.Example", "Xerus.Example\Xerus.Example.csproj", "{24315CD8-44BD-46B6-BBF1-1080655E2EC3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FB6CB315-F61E-4759-BBD8-4E9E3158E06D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB6CB315-F61E-4759-BBD8-4E9E3158E06D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB6CB315-F61E-4759-BBD8-4E9E3158E06D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB6CB315-F61E-4759-BBD8-4E9E3158E06D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF272764-4673-452B-860B-AC1454BAAA3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF272764-4673-452B-860B-AC1454BAAA3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF272764-4673-452B-860B-AC1454BAAA3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF272764-4673-452B-860B-AC1454BAAA3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E48F2D4-4E99-47C4-BFFF-D54527A89E6C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E48F2D4-4E99-47C4-BFFF-D54527A89E6C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E48F2D4-4E99-47C4-BFFF-D54527A89E6C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E48F2D4-4E99-47C4-BFFF-D54527A89E6C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E96990E-7033-4341-A53B-8FD0C15C8835}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E96990E-7033-4341-A53B-8FD0C15C8835}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E96990E-7033-4341-A53B-8FD0C15C8835}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E96990E-7033-4341-A53B-8FD0C15C8835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{904D8CDF-5D51-4004-9600-E6F8B016B479}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{904D8CDF-5D51-4004-9600-E6F8B016B479}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{904D8CDF-5D51-4004-9600-E6F8B016B479}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{904D8CDF-5D51-4004-9600-E6F8B016B479}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24315CD8-44BD-46B6-BBF1-1080655E2EC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24315CD8-44BD-46B6-BBF1-1080655E2EC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24315CD8-44BD-46B6-BBF1-1080655E2EC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24315CD8-44BD-46B6-BBF1-1080655E2EC3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
